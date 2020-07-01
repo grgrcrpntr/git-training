@@ -21,3 +21,7 @@ Welcome to this Git and GitHub training course!
 4. Merge your code with Pull Requests.
 5. Local and remote sync #2: `prune`.
 6. Use tags.
+
+# DISCLAIMER
+
+Just forgot to add something important!
