@@ -8,3 +8,6 @@ Welcome to this Git and GiHub training course!
 2. Open a GitHub account: https://github.com/ and share your GitHub ID
 3. Download and install Visual Studio Code : https://code.visualstudio.com/
 
+### Start here
+
+`git clone https://github.com/grgrcrpntr/git-training.git`
