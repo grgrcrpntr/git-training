@@ -11,3 +11,13 @@ Welcome to this Git and GitHub training course!
 ### Start here
 
 `git clone https://github.com/grgrcrpntr/git-training.git`
+
+### Agenda
+
+1. Early steps: `status`, `add`, `commit`.
+2. Share your code with others: `push`.
+2. Local and remote sync #1: `fetch`, `pull`.
+3. Work with branches: `branch`, `checkout`.
+4. Merge your code with Pull Requests.
+5. Local and remote sync #2: `prune`.
+6. Use tags.
