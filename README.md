@@ -14,11 +14,21 @@ Welcome to this Git and GitHub training course!
 
 ### Agenda
 
-1. Early steps: `status`, `add`, `commit`.
-2. Share your code with others: `push`.
-2. Local and remote sync #1: `fetch`, `pull`.
-3. Work with branches: `branch`, `checkout`.
-4. Merge your code with Pull Requests.
+- Work locally:
+  - Stage changes with `git add`
+  - Commit changes with `git commit`
+  - See changes with `git status` and `git diff`
+- Share your code with others:
+  - `push`
+- Synchronize with remote
+  - `fetch`
+  - `pull`
+- Work with remote branches:
+  - `branch`
+  - `checkout`
+- Merge your code
+  - Open and merge Pull Requests
+  - 
 5. Local and remote sync #2: `prune`.
 6. Use tags.
 
