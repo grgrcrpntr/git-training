@@ -1,6 +1,6 @@
 # Git Training
 
-Welcome to this Git and GiHub training course!
+Welcome to this Git and GitHub training course!
 
 ### Prerequisites
 
