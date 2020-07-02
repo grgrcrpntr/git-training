@@ -17,21 +17,21 @@ Welcome to this Git and GitHub training course!
 - Work locally:
   - Stage changes with `git add`
   - Commit changes with `git commit`
-  - See changes with `git status` and `git diff`
-- Share your code with others:
-  - `push`
-- Synchronize with remote
-  - `fetch`
-  - `pull`
+  - See changes with `git status`, `git log` and `git diff`
+- Sync with remote:
+  - Share your code with `git push`
+  - Update your local repo with `git fetch` and `git pull`
 - Work with remote branches:
-  - `branch`
-  - `checkout`
+  - Create a remote branch
+  - Switch branches with `git checkout`
 - Merge your code
   - Open and merge Pull Requests
-  - 
-5. Local and remote sync #2: `prune`.
-6. Use tags.
-
-# DISCLAIMER
-
-Just forgot to add something important!
+  - Drop local branches with `git branch -d`
+  - Drop remote branch references with `git remote prune origin (--dry-run)`
+- Create releases (use tags)
+- Manage a bug on an old Release
+  - Create a *hotfix* branch from release tag
+  - Fix bug
+  - Create a new Release from *hotfix* branch
+  - Merge *hotfix* into *develop*, drop *hotfix*
+  - Drop local *hotfix* branch and remote branch reference
