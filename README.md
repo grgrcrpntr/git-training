@@ -1,3 +1,5 @@
+License number 3.1415926
+
 # Git Training
 
 Welcome to this Git and GitHub training course!
